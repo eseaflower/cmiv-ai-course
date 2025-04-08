@@ -30,6 +30,7 @@ You can run all notebooks directly from the Github repo by clicking the links be
 * [09 - Heart failure prediction](https://colab.research.google.com/github/eseaflower/cmiv-ai-course/blob/master/notebooks/heart_failure_lab.ipynb)
 * [10 - Classical machine learning](https://colab.research.google.com/github/eseaflower/cmiv-ai-course/blob/master/notebooks/Classical%20Machine%20Learning.ipynb)
 * [11 - ChatGPT prompting](https://colab.research.google.com/github/eseaflower/cmiv-ai-course/blob/master/notebooks/ChatGPT_Prompting.ipynb)
+* [12 - ChatGPT prompting 2](https://colab.research.google.com/github/eseaflower/cmiv-ai-course/blob/master/notebooks/lab.ipynb)
 
 Note
 
